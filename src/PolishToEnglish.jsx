@@ -127,10 +127,11 @@ function PolishToEnglish() {
        })
    
        setPrintData(list)
+       console.log(list.length);
 
        
 
-    const random = Math.floor(Math.random() * (49 - 0 + 1) + 0);
+    const random = Math.floor(Math.random() * (80 - 0 + 1) + 0);
     console.log(random);
     
   
