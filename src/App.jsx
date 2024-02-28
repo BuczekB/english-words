@@ -17,7 +17,7 @@ function App() {
    
 <BrowserRouter>
      <Routes>
-     <Route path='/' element={<HomePage/>}></Route>
+     <Route path='/english-words' element={<HomePage/>}></Route>
         <Route path='/PolishToEnglish' element={<PolishToEnglish/>}></Route>
         <Route path='/EnglishToPolsih' element={<EnglishToPolsih/>}></Route>
      </Routes>
