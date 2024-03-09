@@ -12,6 +12,9 @@ function HomePage() {
      <Link to="/EnglishToPolsih">
      <Button text='English To Polsih'/>
      </Link>
+     <Link to="/IrregularVerbs">
+     <Button text='Irregular Verbs'/>
+     </Link>
       </div>
   )
 }
